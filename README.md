@@ -1,4 +1,5 @@
 # Keylogger
+Please have python module pynput installed...
 This Python Program is a simple Keylogger which stores the keystrokes in a newly crerated text file. 
 To store the textfile, in the current working directory of python, a folder named log should be present.
 The keylogger even shows the date and time when the key was pressed.
